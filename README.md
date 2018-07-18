@@ -7,10 +7,9 @@ This repository presents a quick and simple implementation of YOLOv2 object dete
 
 ![cover01](out/test.jpg)
 
-<iframe height=498 width=510 src="out/test_video.mp4" frameborder=0 allowfullscreen></iframe>
+detect video](https://github.com/fountainhead-gq/yolo2_keras/blob/master/out/test_video.mp4)
 
-<video src="out/test_video.mp4" width="320" height="240" controls="controls">
-</video>
+
 
 ## Thoughts on the implementation
 
@@ -27,7 +26,6 @@ YOLO is well known technique used to perform fast multiple localizations on a si
 - Additionally anchor boxes are used to detect several objects in one grid cell.
   This is a specialty in the Yolo V2 algorithm compared to the others.
 
-#### YOLO9000
 **Paper reference**: [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242) by Joseph Redmond and Ali Farhadi.
 
 
@@ -61,5 +59,3 @@ wgethttps://raw.githubusercontent.com/pjreddie/darknet/master/cfg/yolo.cfg
 ```
 - Run `python yad2k.py yolo.cfg yolo.weights model_data/yolo.h5` on the terminal and the h5 file will be generated.
 - Move the  yolo.h5 file to model_data folder 
-
-# yolo2_keras
