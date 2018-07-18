@@ -7,7 +7,7 @@ This repository presents a quick and simple implementation of YOLOv2 object dete
 
 ![cover01](out/test.jpg)
 
-detect video](https://github.com/fountainhead-gq/yolo2_keras/blob/master/out/test_video.mp4)
+[detect video](https://github.com/fountainhead-gq/yolo2_keras/blob/master/out/test_video.mp4)
 
 
 
